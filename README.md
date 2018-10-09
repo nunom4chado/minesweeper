@@ -1,4 +1,4 @@
-# Minesweeper game in the Command license
+# Minesweeper game (Command Line)
 
 ## Setup
 - Clone the repo
